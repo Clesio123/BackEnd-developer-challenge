@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\michel\michel\bin\Debug\michel.exe.config
+C:\Users\User\source\repos\michel\michel\bin\Debug\michel.exe
+C:\Users\User\source\repos\michel\michel\bin\Debug\michel.pdb
+C:\Users\User\source\repos\michel\michel\obj\Debug\projectoIT.csprojAssemblyReference.cache
+C:\Users\User\source\repos\michel\michel\obj\Debug\michel.Properties.Resources.resources
+C:\Users\User\source\repos\michel\michel\obj\Debug\projectoIT.csproj.GenerateResource.cache
+C:\Users\User\source\repos\michel\michel\obj\Debug\projectoIT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\michel\michel\obj\Debug\michel.exe
+C:\Users\User\source\repos\michel\michel\obj\Debug\michel.pdb
+C:\Users\User\source\repos\michel\michel\obj\Debug\Clesio.Form1.resources
+C:\Users\User\source\repos\michel\michel\obj\Debug\Clesio.Form2.resources
+C:\Users\User\source\repos\michel\michel\obj\Debug\Clesio.Form3.resources
+C:\Users\User\source\repos\michel\michel\obj\Debug\Clesio.Pagamentos.resources
